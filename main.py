@@ -1,4 +1,6 @@
 from colorama import Fore, Back, Style
+from gastos_bomboniere import gastos_equipe
+from gastos_extras import extras
 # Imprime a descrição da Bomboniere com formatação de cor
 print(Fore.GREEN + ("_" * 10) + "Descrição Bomboniere" + ("_" * 10) + Style.RESET_ALL)
 
@@ -42,4 +44,5 @@ if comprar[0] == "S":
 else:
     print("Nenhuma compra efetuada, ganho total R$00,00")
 
-
+gastos_equipe()
+extras()
