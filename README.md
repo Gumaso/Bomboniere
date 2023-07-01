@@ -1,5 +1,5 @@
 
-**_Projeto da Bomboniere**_
+**Projeto da Bomboniere**
 Este projeto consiste em uma aplicação simples para gerenciar uma bomboniere. 
 Ele oferece funcionalidades como visualizar os produtos disponíveis, realizar compras, registrar gastos extras e 
 calcular o valor a ser pago à equipe de funcionários.
